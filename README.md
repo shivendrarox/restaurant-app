@@ -7,7 +7,6 @@ This is a project from front end nanodegree for implementing and studying servic
 
 ## How to start the server and the app
 1. Download the project  from [here](https://github.com/shivendrarox/restaurant-app)
-
 2.Setup a simple python http server
 ```
 python -m http.server 8000
